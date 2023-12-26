@@ -1,0 +1,91 @@
+
+Header file found :
+import mathematical.h
+
+Header file found :
+import exchangeInfo.h
+Decleration
+Decleration
+
+Number :  8
+The Value is: 8	
+
+Number :  4
+The Value is: 4	
+
+Number :  3
+The Value is: 3	
+
+Add Two Numbers : 8+4 = 12 
+The Value is: 12	
+
+Subtract Two Numbers : 8-4=4 
+ The Value is: 4	
+
+Multi of Two Numbers : 8*4 
+ The Value is: 32	
+
+Divi :8/4 
+ The Value is: 2	
+
+before Increment : 10
+after Increment : 11
+
+before Decrement : 10
+after Decrement : 9
+
+
+Number :  9
+
+Number :  2
+
+Greater-Than  :9 > 2 
+ The value is: 1
+
+Number :  2
+
+Number :  9
+
+Less-Than :2 < 9 
+The value is: 1
+
+Number :  9
+
+Number :  9
+
+Equal : 9 == 9
+The value is: 1
+
+Number :  2
+
+Number :  9
+
+Inequal : 2 == 9
+The value is: 1
+
+Greater-Than  :8 > 4 
+ 
+Add Two Numbers : 8+4 = 12 
+
+Subtract Two Numbers : 8-4=4 
+ The value in IF: 12
+
+Less-Than :8 < 4 
+
+Subtract Two Numbers : 8-4=4 
+ condition value zero in IF block
+
+Add Two Numbers : 8+4 = 12 
+The Value is: 12	
+
+FOR Loop
+2th Loop's expression value: 12
+3th Loop's expression value: 12
+
+Add Two Numbers : 12+4 = 16 
+The Value is: 16	
+
+WHILE Loop
+2th Loop's expression value: 16
+3th Loop's expression value: 16
+Main Function Ends
